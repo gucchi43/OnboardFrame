@@ -1,0 +1,6 @@
+framework module Pods_OnboradSetTests {
+  umbrella header "Pods-OnboradSetTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

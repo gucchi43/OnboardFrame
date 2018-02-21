@@ -1,0 +1,15 @@
+PODS:
+  - SwiftyOnboard (1.3.6)
+  - TTTAttributedLabel (2.0.0)
+
+DEPENDENCIES:
+  - SwiftyOnboard
+  - TTTAttributedLabel
+
+SPEC CHECKSUMS:
+  SwiftyOnboard: 8dec41d4725b3e6ebcae276dd206d7f74c1b7f61
+  TTTAttributedLabel: 8cffe8e127e4e82ff3af1e5386d4cd0ad000b656
+
+PODFILE CHECKSUM: 5a3765ada09734d70ce169e021ad962e014aa9bd
+
+COCOAPODS: 1.4.0
